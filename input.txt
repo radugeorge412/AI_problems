@@ -1,0 +1,5 @@
+N=5
+M=3
+NF=0
+MalInitial=vest
+MalFinal=est
